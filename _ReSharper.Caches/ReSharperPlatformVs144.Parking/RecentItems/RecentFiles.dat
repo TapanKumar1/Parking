@@ -1,0 +1,64 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="1EF30D75-5893-4A96-8B2F-188E203BA6DB/d:Properties/f:AssemblyInfo.cs" caret="409" fromTop="9" />
+    <File id="4F3FA212-546D-4F5F-937F-9FB58C3DABB9/d:Properties/f:AssemblyInfo.cs" caret="505" fromTop="11" />
+    <File id="4F3FA212-546D-4F5F-937F-9FB58C3DABB9/f:ParkingRepository.cs" caret="200" fromTop="6" />
+    <File id="6A02271C-5B72-40FC-B9DD-5322951B9E95/f:RefData.cs" caret="420" fromTop="15" />
+    <File id="6A02271C-5B72-40FC-B9DD-5322951B9E95/f:RefDataType.cs" caret="244" fromTop="6" />
+    <File id="F9862A1E-3ACA-4721-A8E1-1EA70720CEB4/f:EntityRepository.cs" caret="403" fromTop="11" />
+    <File id="F9862A1E-3ACA-4721-A8E1-1EA70720CEB4/f:ICriteria.cs" caret="114" fromTop="5" />
+    <File id="5AD135D8-7DEF-48E7-9AF0-1E81530E113C/f:App.config" caret="450" fromTop="6" />
+    <File id="F9862A1E-3ACA-4721-A8E1-1EA70720CEB4/f:IRepository.cs" caret="171" fromTop="5" />
+    <File id="F9862A1E-3ACA-4721-A8E1-1EA70720CEB4/f:Criteria.cs" caret="379" fromTop="13" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:EarlyBirdCalculatorTests.cs" caret="311" fromTop="14" />
+    <File id="9544056E-170A-4153-B3BC-E019CE7B3100/f:IModelBuilder.cs" caret="197" fromTop="8" />
+    <File id="4F3FA212-546D-4F5F-937F-9FB58C3DABB9/f:DbConnection.cs" caret="2207" fromTop="13" />
+    <File id="DAA4BB92-7D60-47C7-B504-810CAA55DC08/f:EarlyBirdCalculator.cs" caret="568" fromTop="13" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:StandardRateCalculatorTests.cs" caret="3108" fromTop="23" />
+    <File id="9544056E-170A-4153-B3BC-E019CE7B3100/d:Builders/f:RefDataBuilder.cs" caret="488" fromTop="17" />
+    <File id="DAA4BB92-7D60-47C7-B504-810CAA55DC08/f:ICalculator.cs" caret="99" fromTop="5" />
+    <File id="9544056E-170A-4153-B3BC-E019CE7B3100/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+    <File id="6A02271C-5B72-40FC-B9DD-5322951B9E95/f:ParkingRate.cs" caret="132" fromTop="5" />
+    <File id="6A02271C-5B72-40FC-B9DD-5322951B9E95/f:Rate.cs" caret="71" fromTop="4" />
+    <File id="5AD135D8-7DEF-48E7-9AF0-1E81530E113C/f:Program.cs" caret="820" fromTop="28" />
+    <File id="DAA4BB92-7D60-47C7-B504-810CAA55DC08/f:ParkingCalculator.cs" caret="813" fromTop="32" />
+    <File id="6A02271C-5B72-40FC-B9DD-5322951B9E95/f:IRate.cs" caret="68" fromTop="4" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:ParkingCalculatorTests.cs" caret="360" fromTop="15" />
+    <File id="DAA4BB92-7D60-47C7-B504-810CAA55DC08/f:StandardRateCalculator.cs" caret="729" fromTop="21" />
+    <File id="5AD135D8-7DEF-48E7-9AF0-1E81530E113C/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+    <File id="9544056E-170A-4153-B3BC-E019CE7B3100/f:BLModules.cs" caret="258" fromTop="12" />
+    <File id="5AD135D8-7DEF-48E7-9AF0-1E81530E113C/f:Form1.cs" caret="469" fromTop="12" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:StandardRateCalculatorTests.cs" caret="3129" fromTop="7" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:StandardRateCalculatorTests.cs" caret="1681" fromTop="21" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:StandardRateCalculatorTests.cs" caret="2217" fromTop="27" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:StandardRateCalculatorTests.cs" caret="2749" fromTop="18" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:StandardRateCalculatorTests.cs" caret="3278" fromTop="23" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:ParkingCalculatorTests.cs" caret="1053" fromTop="19" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:ParkingCalculatorTests.cs" caret="1771" fromTop="10" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:EarlyBirdCalculatorTests.cs" caret="864" fromTop="19" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:EarlyBirdCalculatorTests.cs" caret="1142" fromTop="31" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:EarlyBirdCalculatorTests.cs" caret="950" fromTop="23" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:EarlyBirdCalculatorTests.cs" caret="547" fromTop="12" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:EarlyBirdCalculatorTests.cs" caret="1480" fromTop="14" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:EarlyBirdCalculatorTests.cs" caret="2152" fromTop="21" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:EarlyBirdCalculatorTests.cs" caret="3350" fromTop="27" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:EarlyBirdCalculatorTests.cs" caret="2743" fromTop="7" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:ParkingCalculatorTests.cs" caret="2169" fromTop="23" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:ParkingCalculatorTests.cs" caret="539" fromTop="12" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:ParkingCalculatorTests.cs" caret="696" fromTop="17" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:ParkingCalculatorTests.cs" caret="3830" fromTop="22" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:ParkingCalculatorTests.cs" caret="3079" fromTop="9" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:ParkingCalculatorTests.cs" caret="1826" fromTop="14" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:ParkingCalculatorTests.cs" caret="1698" fromTop="13" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:ParkingCalculatorTests.cs" caret="1860" fromTop="19" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:ParkingCalculatorTests.cs" caret="3425" fromTop="6" />
+    <File id="C8EFEEA4-4322-48EE-8ADB-EF6F74A33992/f:ParkingCalculatorTests.cs" caret="4086" fromTop="15" />
+    <File id="5AD135D8-7DEF-48E7-9AF0-1E81530E113C/f:Form1.cs" caret="5915" fromTop="6" />
+    <File id="6A02271C-5B72-40FC-B9DD-5322951B9E95/f:ParkingRate.cs" caret="132" fromTop="5" />
+    <File id="DAA4BB92-7D60-47C7-B504-810CAA55DC08/f:ParkingCalculator.cs" caret="1013" fromTop="27" />
+    <File id="5AD135D8-7DEF-48E7-9AF0-1E81530E113C/f:Form1.cs" caret="815" fromTop="11" />
+    <File id="5AD135D8-7DEF-48E7-9AF0-1E81530E113C/f:Form1.cs" caret="935" fromTop="15" />
+  </RecentEdits>
+</RecentFiles>

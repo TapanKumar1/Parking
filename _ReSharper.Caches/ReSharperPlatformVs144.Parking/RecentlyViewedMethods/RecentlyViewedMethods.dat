@@ -1,0 +1,16 @@
+﻿<RecentlyViewedMethods>
+  <RecentlyViewedMethods>
+    <RecentMethod id="6a02271c-5b72-40fc-b9dd-5322951b9e95%28Parking.Model%29-7FC9E840/P%3AParking.Model.Rate.ParkingRate" />
+    <RecentMethod id="5ad135d8-7def-48e7-9af0-1e81530e113c%28Parking.Winform%29-BC3F8DF7/M%3AParking.Winform.Form1.button1_Click%28System.Object%2CSystem.EventArgs%29" />
+    <RecentMethod id="c8efeea4-4322-48ee-8adb-ef6f74a33992%28Parking.Test%29-4632D89B/M%3AParking.Test.StandardRateCalculatorTests.GivenEntryAndExitTimeShouldReturnRate20WhenDurationIsMoreThan3Hours" />
+    <RecentMethod id="c8efeea4-4322-48ee-8adb-ef6f74a33992%28Parking.Test%29-4632D89B/M%3AParking.Test.StandardRateCalculatorTests.%23ctor" />
+    <RecentMethod id="c8efeea4-4322-48ee-8adb-ef6f74a33992%28Parking.Test%29-4632D89B/M%3AParking.Test.ParkingCalculatorTests.%23ctor" />
+    <RecentMethod id="c8efeea4-4322-48ee-8adb-ef6f74a33992%28Parking.Test%29-4632D89B/M%3AParking.Test.ParkingCalculatorTests.WhenEntryIsBetween6AmAnd9AmAndExitIsBetween330PmAnd11Pm" />
+    <RecentMethod id="c8efeea4-4322-48ee-8adb-ef6f74a33992%28Parking.Test%29-4632D89B/M%3AParking.Test.ParkingCalculatorTests.Setup" />
+    <RecentMethod id="9544056e-170a-4153-b3bc-e019ce7b3100%28Parking.BL%29-32F40E93/M%3AParking.BL.Builders.RefDataBuilder.Build%28System.String%29" />
+    <RecentMethod id="daa4bb92-7d60-47c7-b504-810caa55dc08%28Parking.Engine%29-6BBFB00B/M%3AParking.Engine.EarlyBirdCalculator.Calculate%28Parking.Model.TimeSlot%29" />
+    <RecentMethod id="daa4bb92-7d60-47c7-b504-810caa55dc08%28Parking.Engine%29-6BBFB00B/M%3AParking.Engine.ParkingCalculator.Calculate%28Parking.Model.TimeSlot%29" />
+    <RecentMethod id="c8efeea4-4322-48ee-8adb-ef6f74a33992%28Parking.Test%29-4632D89B/M%3AParking.Test.ParkingCalculatorTests.WhenEntryIsBetween6PmAnd12AmAndExitNextDayBefore6Am" />
+    <RecentMethod id="c8efeea4-4322-48ee-8adb-ef6f74a33992%28Parking.Test%29-4632D89B/M%3AParking.Test.EarlyBirdCalculatorTests.%23ctor" />
+  </RecentlyViewedMethods>
+</RecentlyViewedMethods>
